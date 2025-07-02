@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liaison-inc/iterable-api.git"
+    "url": "git+https://github.com/geoffdutton/iterable-api.git"
   },
   "keywords": [
     "iterable",
@@ -22,9 +22,9 @@
   "author": "Geoff Dutton <g.dutton@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liaison-inc/iterable-api/issues"
+    "url": "https://github.com/geoffdutton/iterable-api/issues"
   },
-  "homepage": "https://github.com/liaison-inc/iterable-api",
+  "homepage": "https://github.com/geoffdutton/iterable-api",
   "dependencies": {
     "axios": "^0.25.0",
     "debug": "^4.3.3"
